@@ -37,6 +37,8 @@ Exemplo das primeiras linhas do CSV:
 import pandas as pd
 df = pd.read_csv("dados/brasileirao.csv")
 df.head() 
+
+
 ![Primeiras linhas do dataset](images/print_head.png)
 
 
