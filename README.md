@@ -49,13 +49,13 @@ df.head()
 
 Além dos dados originais, o projeto gera novas colunas para enriquecer a análise:
 
-percentual_vitoria → Taxa de vitórias (%) por temporada
+1. percentual_vitoria → Taxa de vitórias (%) por temporada
 
-media_gols_marcados → Média de gols marcados por jogo
+2. media_gols_marcados → Média de gols marcados por jogo
 
-media_gols_sofridos → Média de gols sofridos por jogo
+3. media_gols_sofridos → Média de gols sofridos por jogo
 
-media_pontos → Média de pontos conquistados por jogo
+4. media_pontos → Média de pontos conquistados por jogo
 
 Essas métricas permitem comparar eficiência, ataque e defesa entre os clubes.
 
@@ -101,8 +101,6 @@ Python → Pandas, Matplotlib, Seaborn
 
 Jupyter Notebook → Exploração interativa dos dados
 
-Power BI / Streamlit → Dashboard interativo
-
 Git & GitHub → Controle de versão e publicação do projeto
 
 📂 Estrutura do Projeto
@@ -127,7 +125,6 @@ pip install -r requirements.txt
 
 
 Execute o script:
-
+```python
 python main.py
-
-📌 Próximos passos
+```
