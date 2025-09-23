@@ -43,6 +43,7 @@ df.head()
 
 ![Primeiras linhas do dataset](images/print_head.png)
 
+---
 
 ## 2️⃣ Novas métricas criadas
 
@@ -58,7 +59,9 @@ media_pontos → Média de pontos conquistados por jogo
 
 Essas métricas permitem comparar eficiência, ataque e defesa entre os clubes.
 
-3️⃣ Principais análises realizadas
+---
+
+## 3️⃣ Principais análises realizadas
 
 Times campeões: identificação dos campeões de cada temporada.
 
@@ -78,7 +81,9 @@ Clubes com melhor saldo de gols.
 
 Evolução por temporada: linha do tempo mostrando a pontuação de clubes selecionados.
 
-4️⃣ Exemplos de visualizações
+---
+
+## 4️⃣ Exemplos de visualizações
 
 📈 Gráfico de barras com os times mais vitoriosos da história.
 
@@ -90,7 +95,7 @@ Evolução por temporada: linha do tempo mostrando a pontuação de clubes selec
 
 (as imagens dos gráficos podem ser adicionadas aqui com ![alt text](caminho/imagem.png))
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Python → Pandas, Matplotlib, Seaborn
 
