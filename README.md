@@ -41,7 +41,7 @@ df = pd.read_csv("dados/brasileirao.csv")
 df.head() 
 ```
 
-![Primeiras linhas do dataset](images/print_head.png)
+![Primeiras linhas do dataset](images/exemplo_5.png)
 
 ---
 
