@@ -33,6 +33,8 @@ A base contém as seguintes colunas:
 
 Exemplo das primeiras linhas do CSV:
 
+
+
 ```python
 import pandas as pd
 df = pd.read_csv("dados/brasileirao.csv")
