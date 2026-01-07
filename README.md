@@ -93,7 +93,6 @@ Evolução por temporada: linha do tempo mostrando a pontuação de clubes selec
 
 📊 Evolução dos pontos ao longo das temporadas para times específicos.
 
-(as imagens dos gráficos podem ser adicionadas aqui com ![alt text](caminho/imagem.png))
 
 ## 🛠️ Tecnologias Utilizadas
 
